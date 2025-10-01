@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+media/
+
+# VS Code
+.vscode/
+
+# macOS / Linux
+.DS_Store
+*.swp
+
+# PyCharm
+.idea/
+
+# Byte-compiled / optimized files
+*.py[cod]
+
+# Cache
+*.cache/
